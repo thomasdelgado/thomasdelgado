@@ -10,7 +10,7 @@ I'm Thomas, a Software Engineer and Co-Founder of Kobe.
 - 🌱 I’m currently learning SwiftUI and any new Apple technology.
 - ⚡ Fun fact: I've won a Fifa platinum trophy ⚽️ and got Legend rank in Hearthstone 🎴
 - 💬 Ask me about
-  - Apple, games, philosophy, biohacking or virtually anything. We just need to grab a beer 🍺 first.
+  - Apple, games, philosophy, biohacking or virtually anything. We just need to grab a beer first 🍺.
 - 📫 How to reach me: 
   - thomas.ddelgado@gmail.com
   - [Twitter](https://twitter.com/delgadoThomas)
